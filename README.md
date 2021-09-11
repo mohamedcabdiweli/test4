@@ -1,8 +1,8 @@
  New Development Project
 test
 test4
-<<<<<<< HEAD
+ HEAD
 fksjdflksjal
-=======
+
 test4
->>>>>>> prod
+ prod
